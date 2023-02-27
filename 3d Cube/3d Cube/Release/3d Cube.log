@@ -1,0 +1,16 @@
+﻿  main.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+D:\С++ проекты ( моё портфолио )\3d Cube\Release\3d Cube.exe : fatal error LNK1281: Не удается создать образ SAFESEH.
